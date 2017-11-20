@@ -1,7 +1,7 @@
 # CDRF 
 ### Call Detailed Record Forecasting: A Multitask Learning Architecture Using Deep Learning Networks for Mobile Traffic Forecasting
 
-This repository provides the codes base used to publish a research paper in IEEE PIMRC 2017[1], which is an early work on deep learning-based mobile traffic forecasting.
+This repository provides the code base used to publish a research paper in IEEE PIMRC 2017[1], which is an early work on deep learning-based mobile traffic forecasting.
 
 
 [1] C.-W. Huang, C.-T. Chiang, and Q. Li, “A Study of Deep Learning Networks on Mobile Traffic Forecasting,” in *IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Montreal, Canada, Oct. 2017.
